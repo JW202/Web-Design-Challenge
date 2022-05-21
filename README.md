@@ -39,16 +39,20 @@ The website must consist of seven pages in total, including:
 
 Landing Page:
 
-![Landing page large screen](landing.png)
+![landing](https://user-images.githubusercontent.com/100645924/169663886-84ed814a-1613-41aa-b53c-5389e3cd18e2.png)
+
 
 Comparison Page:
 
-![Comparison page large screen](comparison.png)
+![comparison](https://user-images.githubusercontent.com/100645924/169663898-ab20429c-d945-434f-a348-eefbbebb2161.png)
+
 
 Plots:
 
-![Plots with 4 choices](plots.png)
+![plots](https://user-images.githubusercontent.com/100645924/169663917-986e16fc-e705-4bc8-a583-2d76e0efd25f.png)
+
 
 Data:
 
-![Data page](data.png)
+![data](https://user-images.githubusercontent.com/100645924/169663931-48ab03e5-1c50-4a7f-b49d-9bb5570df259.png)
+
