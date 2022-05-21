@@ -36,6 +36,12 @@ The website must consist of seven pages in total, including:
 
   * The data must come from exporting the `.csv` file as HTML or by converting it to HTML. Try using a tool that you already know: Pandas. Pandas has a method, appropriately called `to_html`, that allows you to generate an HTML table from a Pandas DataFrame. To learn more, review the [documentation](https://pandas.pydata.org/pandas-docs/version/0.17.0/generated/pandas.DataFrame.to_html.html).
 
+Latitude page:
+
+
+file:///Users/jessiewan/Desktop/Homework/Web-Design-Challenge/index.html
+
+
 Landing Page:
 
 ![Landing page large screen](landing.png)
